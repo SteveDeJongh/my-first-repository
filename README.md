@@ -8,3 +8,7 @@ Important steps for git workflow:
 4. Stage changes for comit
 5. Comit changes to version history
 6. View previous changes with git log
+
+## table of Contents
+
+-example_file.txt
